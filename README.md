@@ -22,4 +22,6 @@ Datasets used
 1.	2017 Spotify streaming data (as a csv) retrieved from data.world
 2. Last.fm Music Discovery API from https://www.last.fm/api 
 3. openweathermap api from https://openweathermap.org/
+4. Spotify API
+5. spotipy
 
