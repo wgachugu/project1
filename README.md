@@ -14,7 +14,7 @@ Project Description/Outline:
 A discovery into underlying trends and patterns that shape the types of genres accessed via music streaming sites.
  
 Research Questions to Answer
-1.
+1. 
 2.	Is there any remarkable distinction between genres and popularity around the world? 
 
 
